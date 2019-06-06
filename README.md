@@ -30,4 +30,4 @@ The MD5 hash for this file, found by this file:
 ## Built With
 
 * [Python](https://www.python.org/) - It's Python.
-* [Notepadqq](https://notepadqq.com/s/) - Dependency Management
+* [Notepadqq](https://notepadqq.com/s/) - Text Editor
